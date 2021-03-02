@@ -5,7 +5,7 @@ class Greet extends Component {
     render() {
         return (
             <div>
-                <h1 fontcolor> Hi Ranjith Kumar </h1>
+                <h3> Hi Ranjith Kumar </h3>
             </div>
         )
     }
